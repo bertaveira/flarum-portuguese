@@ -1,20 +1,21 @@
 {
-    "name": "lcbcruz/flarum-portuguese",
+    "name": "bertaveira/flarum-portuguese",
     "type": "flarum-extension",
     "description": "Portuguese language pack.",
+    "homepage": "https://github.com/bertaveira/flarum-portuguese",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.6"
+        "flarum/core": "^0.1.0-beta.12"
     },
     "authors": [
         {
-            "name": "Luís Cruz",
-            "email": "lcbcruz82@gmail.com",
-            "github": "https://github.com/lcbcruz"
+            "name": "Bernardo Taveira",
+            "email": "bertaveira@gmail.com",
+            "github": "https://github.com/bertaveira/"
         }
     ],
-    "extra": {        
+    "extra": {
         "flarum-extension": {
             "title": "Portuguese (pt-PT)",
             "icon": {
